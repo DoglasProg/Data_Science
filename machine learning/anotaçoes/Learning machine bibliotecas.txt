@@ -8,3 +8,6 @@ matplotlib - pacote para plotar graficos em 2D
 	pip3 install matplotlib
 	import matplotlib
 	%matplotlib inline
+
+Pandas - biblioteca de alta performance para estruturas de dados
+	 
